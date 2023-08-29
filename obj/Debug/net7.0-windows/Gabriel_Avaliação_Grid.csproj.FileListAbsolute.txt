@@ -1,0 +1,17 @@
+C:\Gabriel_Avaliação_Grid\bin\Debug\net7.0-windows\Gabriel_Avaliação_Grid.exe
+C:\Gabriel_Avaliação_Grid\bin\Debug\net7.0-windows\Gabriel_Avaliação_Grid.deps.json
+C:\Gabriel_Avaliação_Grid\bin\Debug\net7.0-windows\Gabriel_Avaliação_Grid.runtimeconfig.json
+C:\Gabriel_Avaliação_Grid\bin\Debug\net7.0-windows\Gabriel_Avaliação_Grid.dll
+C:\Gabriel_Avaliação_Grid\bin\Debug\net7.0-windows\Gabriel_Avaliação_Grid.pdb
+C:\Gabriel_Avaliação_Grid\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\Gabriel_Avaliação_Grid.csproj.AssemblyReference.cache
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\Gabriel_Avaliação_Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\Gabriel_Avaliação_Grid.AssemblyInfoInputs.cache
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\Gabriel_Avaliação_Grid.AssemblyInfo.cs
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\Gabriel_Avaliação_Grid.csproj.CoreCompileInputs.cache
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\Gabriel_Avaliação_Grid.csproj.CopyComplete
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\Gabriel_Avaliação_Grid.dll
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\refint\Gabriel_Avaliação_Grid.dll
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\Gabriel_Avaliação_Grid.pdb
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\Gabriel_Avaliação_Grid.genruntimeconfig.cache
+C:\Gabriel_Avaliação_Grid\obj\Debug\net7.0-windows\ref\Gabriel_Avaliação_Grid.dll
